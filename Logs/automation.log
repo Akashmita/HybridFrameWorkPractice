@@ -1,0 +1,84 @@
+04/28/2024 04:15:20 AM: INFO: **********************************Testing homepage title***********************************
+04/28/2024 04:15:24 AM: INFO: **********************************Testing test_login Page***********************************
+04/28/2024 05:30:58 AM: INFO: ====== WebDriver manager ======
+04/28/2024 05:31:02 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/28/2024 05:31:03 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/28/2024 05:31:03 AM: INFO: Driver [C:\Users\mitas\.wdm\drivers\chromedriver\win64\124.0.6367.91\chromedriver-win32/chromedriver.exe] found in cache
+04/28/2024 05:31:06 AM: INFO: ====== WebDriver manager ======
+04/28/2024 05:31:09 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/28/2024 05:31:10 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/28/2024 05:31:10 AM: INFO: Driver [C:\Users\mitas\.wdm\drivers\chromedriver\win64\124.0.6367.91\chromedriver-win32/chromedriver.exe] found in cache
+04/28/2024 05:31:41 AM: INFO: ====== WebDriver manager ======
+04/28/2024 05:31:44 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/28/2024 05:31:45 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/28/2024 05:31:45 AM: INFO: Driver [C:\Users\mitas\.wdm\drivers\chromedriver\win64\124.0.6367.91\chromedriver-win32/chromedriver.exe] found in cache
+04/28/2024 05:31:48 AM: INFO: ====== WebDriver manager ======
+04/28/2024 05:31:51 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/28/2024 05:31:51 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/28/2024 05:31:52 AM: INFO: Driver [C:\Users\mitas\.wdm\drivers\chromedriver\win64\124.0.6367.91\chromedriver-win32/chromedriver.exe] found in cache
+04/28/2024 05:32:39 AM: INFO: ====== WebDriver manager ======
+04/28/2024 05:32:42 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/28/2024 05:32:43 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/28/2024 05:32:44 AM: INFO: Driver [C:\Users\mitas\.wdm\drivers\chromedriver\win64\124.0.6367.91\chromedriver-win32/chromedriver.exe] found in cache
+04/28/2024 05:32:59 AM: INFO: ====== WebDriver manager ======
+04/28/2024 05:33:02 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/28/2024 05:33:03 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/28/2024 05:33:04 AM: INFO: Driver [C:\Users\mitas\.wdm\drivers\chromedriver\win64\124.0.6367.91\chromedriver-win32/chromedriver.exe] found in cache
+04/28/2024 05:34:54 AM: INFO: ====== WebDriver manager ======
+04/28/2024 05:34:57 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/28/2024 05:34:58 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/28/2024 05:34:59 AM: INFO: Driver [C:\Users\mitas\.wdm\drivers\chromedriver\win64\124.0.6367.91\chromedriver-win32/chromedriver.exe] found in cache
+04/28/2024 05:54:09 AM: INFO: **********************************Testing homepage title***********************************
+04/28/2024 05:55:49 AM: INFO: **********************************Testing homepage title***********************************
+04/28/2024 05:55:53 AM: INFO: **********************************Testing test_login Page***********************************
+04/28/2024 05:58:03 AM: INFO: **********************************Testing homepage title***********************************
+04/28/2024 05:58:07 AM: INFO: **********************************Testing test_login Page***********************************
+04/28/2024 06:00:26 AM: INFO: **************************Test_002_login_ddt test**********************
+04/28/2024 06:00:39 AM: INFO: ***test pass***
+04/28/2024 06:00:51 AM: INFO: ***passed***
+04/28/2024 06:01:01 AM: INFO: ***passed***
+04/28/2024 06:01:01 AM: INFO: ********Login ddt test passed*********
+04/28/2024 06:01:01 AM: INFO: ******* End of Login DDT Test **********
+04/28/2024 06:01:01 AM: INFO: **************** Completed  TC_LoginDDT_002 ************* 
+04/29/2024 05:43:58 AM: INFO: **************************Test_002_login_ddt test**********************
+04/29/2024 05:44:12 AM: INFO: ***test pass***
+04/29/2024 05:44:25 AM: INFO: ***passed***
+04/29/2024 05:44:36 AM: INFO: ***passed***
+04/29/2024 05:44:36 AM: INFO: ********Login ddt test passed*********
+04/29/2024 05:44:37 AM: INFO: ******* End of Login DDT Test **********
+04/29/2024 05:44:37 AM: INFO: **************** Completed  TC_LoginDDT_002 ************* 
+04/29/2024 06:33:42 AM: INFO: **********************************Testing homepage title***********************************
+04/29/2024 06:45:01 AM: INFO: ====== WebDriver manager ======
+04/29/2024 06:45:07 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/29/2024 06:45:08 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/29/2024 06:45:08 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/29/2024 06:45:10 AM: INFO: WebDriver version 124.0.6367.91 selected
+04/29/2024 06:45:10 AM: INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.91/win32/chromedriver-win32.zip
+04/29/2024 06:45:10 AM: INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.91/win32/chromedriver-win32.zip
+04/29/2024 06:45:11 AM: INFO: Driver downloading response is 200
+04/29/2024 06:45:12 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/29/2024 06:45:13 AM: INFO: Driver has been saved in cache [C:\Users\mitas\.wdm\drivers\chromedriver\win64\124.0.6367.91]
+04/29/2024 06:45:36 AM: INFO: ====== WebDriver manager ======
+04/29/2024 06:45:38 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/29/2024 06:45:39 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/29/2024 06:45:40 AM: INFO: Driver [C:\Users\mitas\.wdm\drivers\chromedriver\win64\124.0.6367.91\chromedriver-win32/chromedriver.exe] found in cache
+04/29/2024 06:47:28 AM: INFO: ====== WebDriver manager ======
+04/29/2024 06:47:31 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/29/2024 06:47:32 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/29/2024 06:47:33 AM: INFO: Driver [C:\Users\mitas\.wdm\drivers\chromedriver\win64\124.0.6367.91\chromedriver-win32/chromedriver.exe] found in cache
+04/29/2024 06:48:18 AM: INFO: ====== WebDriver manager ======
+04/29/2024 06:48:21 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/29/2024 06:48:22 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/29/2024 06:48:23 AM: INFO: Driver [C:\Users\mitas\.wdm\drivers\chromedriver\win64\124.0.6367.91\chromedriver-win32/chromedriver.exe] found in cache
+04/29/2024 06:52:05 AM: INFO: ====== WebDriver manager ======
+04/29/2024 06:52:08 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/29/2024 06:52:08 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/29/2024 06:52:09 AM: INFO: Driver [C:\Users\mitas\.wdm\drivers\chromedriver\win64\124.0.6367.91\chromedriver-win32/chromedriver.exe] found in cache
+04/29/2024 06:54:35 AM: INFO: ====== WebDriver manager ======
+04/29/2024 06:54:38 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/29/2024 06:54:39 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/29/2024 06:54:40 AM: INFO: Driver [C:\Users\mitas\.wdm\drivers\chromedriver\win64\124.0.6367.91\chromedriver-win32/chromedriver.exe] found in cache
+04/29/2024 06:56:49 AM: INFO: ====== WebDriver manager ======
+04/29/2024 06:56:52 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/29/2024 06:56:53 AM: INFO: Get LATEST chromedriver version for google-chrome
+04/29/2024 06:56:54 AM: INFO: Driver [C:\Users\mitas\.wdm\drivers\chromedriver\win64\124.0.6367.91\chromedriver-win32/chromedriver.exe] found in cache
